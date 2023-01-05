@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\metrixmove\metrixmove\bin\Debug\metrixmove.exe.config
+C:\Users\admin\Desktop\metrixmove\metrixmove\bin\Debug\metrixmove.exe
+C:\Users\admin\Desktop\metrixmove\metrixmove\bin\Debug\metrixmove.pdb
+C:\Users\admin\Desktop\metrixmove\metrixmove\obj\Debug\metrixmove.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\metrixmove\metrixmove\obj\Debug\metrixmove.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\metrixmove\metrixmove\obj\Debug\metrixmove.exe
+C:\Users\admin\Desktop\metrixmove\metrixmove\obj\Debug\metrixmove.pdb
+C:\Users\admin\Desktop\metrixmove\metrixmove\obj\Debug\metrixmove.csproj.SuggestedBindingRedirects.cache
